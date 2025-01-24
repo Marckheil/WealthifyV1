@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # API key setup
-API_KEY = "RChVllzp0FgyKsyKryOt3LOWiflUFf8S" 
+API_KEY = "YOUR_API_KEY" 
 
 # Streamlit app title
 st.title("Wealthify")
